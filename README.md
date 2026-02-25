@@ -196,6 +196,4 @@ You now have:
 
 ---
 
-# ⭐ If this helped
 
-Give the repo a star and connect on LinkedIn!
